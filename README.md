@@ -58,8 +58,6 @@ Contributions are welcome! Please follow these steps:
 - Built with [Next.js](https://nextjs.org/)
 - Inspired by Instagram's API capabilities
 
-## Footer
-
 ---
 
 Made with ❤️ by [@msaifulhuda](https://github.com/msaifulhuda). Contributions, issues, and feature requests are welcome!
